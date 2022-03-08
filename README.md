@@ -1,13 +1,17 @@
 Ig-Fb
-'''Install'''
+
+### Install 
+```
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
-$ git clone https://github.com/BOY-H4MZ4H/prem-dek
+$ git clone https://github.com/rahmat-JR/prem-dek
 $ pip install requests bs4
 $ pip install futures
+```
 
-'''Run'''
+###Run
+```
 $ git pull
-$ cd IG_FB
+$ cd prem-dek
 $ python IG_FB.py
